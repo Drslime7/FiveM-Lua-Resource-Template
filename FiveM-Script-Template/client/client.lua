@@ -1,4 +1,4 @@
-    -- You Can Dlete the rest of this whn scripting you probarbluy won need it
+    -- You Can Dlete the rest of this whn scripting you probarbluy wont need it
 RegisterCommand('help',function ()
     TriggerEvent( chat:'addMessage',{
         color = {255,0,0},

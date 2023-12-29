@@ -1,4 +1,6 @@
+--This is the code that alows the lua plugin to work. I recomend edditing the author, description and version to what suits the plugin
 -- Resource Metadata
+
 fx_version 'cerulean'
 games { 'gta5' }
 

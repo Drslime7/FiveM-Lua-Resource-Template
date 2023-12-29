@@ -1,1 +1,1 @@
--- You don't need this
+-- You don't need this but it's very useful for server owners to easily edit nesacary components of the plugin to taylor it for their usecase without worring about breaking something.
